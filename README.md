@@ -72,18 +72,13 @@ Este documento registra o processo de criação de um eBook temático sobre **CS
 > **Instrução:** Use como referência a escrita do jogo do Super Mario Bros.
 
 **IA:**
-## 🏁 Fim da Fase – Agradecimento Final
-
-**YAHOO! Você chegou ao final desta jornada no Reino do CSS!** 🏰🎉
-
-Assim como o Mario e o Luigi enfrentam Goombas e pulam em blocos para salvar a Princesa, você percorreu os caminhos do conhecimento, pulou entre seletores, desviou dos bugs e coletou várias “moedinhas” de sabedoria.
-
-Este eBook foi gerado com a ajuda de uma Inteligência Artificial, com o objetivo de **ensinar CSS de forma simples, divertida e educativa**. Nenhum Toad foi ferido no processo. 🐸✨
-
-Se este conteúdo te ajudou, lembre-se: compartilhar conhecimento é como pegar uma estrela no jogo — deixa todo mundo brilhando! ⭐
-
-Obrigado por jogar (e aprender) com a gente!  
-Até a próxima fase! 🎮👨‍💻
+> ## 🏁 Fim da Fase – Agradecimento Final
+> **YAHOO! Você chegou ao final desta jornada no Reino do CSS!** 🏰🎉
+> Assim como o Mario e o Luigi enfrentam Goombas e pulam em blocos para salvar a Princesa, você percorreu os caminhos do conhecimento, pulou entre seletores, desviou dos bugs e coletou várias “moedinhas” de sabedoria.
+> Este eBook foi gerado com a ajuda de uma Inteligência Artificial, com o objetivo de **ensinar CSS de forma simples, divertida e educativa**. Nenhum Toad foi ferido no processo. 🐸✨
+> Se este conteúdo te ajudou, lembre-se: compartilhar conhecimento é como pegar uma estrela no jogo — deixa todo mundo brilhando! ⭐
+> Obrigado por jogar (e aprender) com a gente!  
+> Até a próxima fase! 🎮👨‍💻
 
 ---
 # 📚 Conteúdo do eBook
