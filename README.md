@@ -1,6 +1,6 @@
 # 📘 CSS Bros: A Jornada até o Estilo Supremo
 
-Este repositório contém um eBook educativo, com foco nos principais **seletores CSS**, criado com a ajuda da **Inteligência Artificial** (ChatGPT - OpenAI).
+Este repositório contém um eBook educativo, com foco nos principais **seletores CSS**, criado com a ajuda da **Inteligência Artificial** ([ChatGPT](https://chatgpt.com/) - OpenAI) e o [Canva](https://www.canva.com/).
 
 Inspirado no universo nostálgico de **Super Mario Bros**, o conteúdo foi pensado para ensinar conceitos de CSS de forma **simples, divertida e acessível**, como se fosse para uma criança.
 
