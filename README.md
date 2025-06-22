@@ -1,4 +1,4 @@
-# 📘 CSS Bros: A Jornada até o Estilo Supremo
+# 📘 CSS Bros: Fase 1 - Selecionando o Estilo Supremo
 
 Este repositório contém um eBook educativo, com foco nos principais **seletores CSS**, criado com a ajuda da **Inteligência Artificial** ([ChatGPT](https://chatgpt.com/) - OpenAI) e o [Canva](https://www.canva.com/).
 
