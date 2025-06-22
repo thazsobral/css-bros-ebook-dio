@@ -6,7 +6,7 @@ Inspirado no universo nostálgico de **Super Mario Bros**, o conteúdo foi pensa
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
 Este projeto tem como objetivo:
 
@@ -16,7 +16,7 @@ Este projeto tem como objetivo:
 - Gerar um eBook completo com explicações simples e exemplos práticos
 
 ---
-## 💬 Histórico da Conversa com IA – Geração de eBook CSS com Tema Super Mario Bros
+# 💬 Histórico da Conversa com IA – Geração de eBook CSS com Tema Super Mario Bros
 
 Este documento registra o processo de criação de um eBook temático sobre **CSS** com linguagem simples e referências ao universo do **Super Mario Bros**, utilizando **Inteligência Artificial (ChatGPT)**. O objetivo foi testar o uso de IA para gerar conteúdo educacional com criatividade.
 
@@ -86,7 +86,7 @@ Obrigado por jogar (e aprender) com a gente!
 Até a próxima fase! 🎮👨‍💻
 
 ---
-## 📚 Conteúdo do eBook
+# 📚 Conteúdo do eBook
 
 O eBook inclui:
 
@@ -98,7 +98,7 @@ O eBook inclui:
 
 ---
 
-## 🤖 Sobre a Geração com IA
+# 🤖 Sobre a Geração com IA
 
 Este conteúdo foi gerado com apoio de **IA (ChatGPT)** da OpenAI e tem **fins exclusivamente educativos**.
 
@@ -106,7 +106,7 @@ Todo o conteúdo foi revisado e ajustado manualmente para garantir clareza, coes
 
 ---
 
-## 🗂 Estrutura do Projeto
+# 🗂 Estrutura do Projeto
 
 ```bash
 📂 css-bros-ebook/
